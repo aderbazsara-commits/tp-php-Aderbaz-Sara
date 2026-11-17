@@ -5,7 +5,7 @@ const DOSSIER_UPLOADS = __DIR__ . '/uploads/';
 const FILIERES   = ['GI', 'IDIA', 'GE', 'GC'];
 const UTILISATEURS = [
     'admin' => 'admin123',
-    'hajar' => 'ensa2026',
+    'sara' => 'sara123',
 ];
 
 // ---------- Session ----------
